@@ -4,6 +4,10 @@
 \usepackage{multirow}
 \begin{document}
 
+\input{
+  |"/bin/echo $ANSWERS" %$
+}
+
 % this is to display answers
 \newcommand{\answer}[1]{
   \textcolor{red}{#1}
