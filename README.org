@@ -1,3 +1,5 @@
 * Numeracy Evaluation
 I give this test during the job application process to understand
 candidates numeracy skills
+* to build 
+run the command ./build-tests.sh. It will build pdfs both with and without the answers.
